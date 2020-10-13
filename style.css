@@ -47,3 +47,19 @@ html {
 .grid-item:nth-child(even) {
     background-color: black;
 }
+
+.rook {
+
+}
+
+.white-chess {
+    font-size: 4rem;
+    color: red;
+    text-align: center;
+}
+
+.black-chess {
+    font-size: 4rem;
+    color: blue;
+    text-align: center;
+}
